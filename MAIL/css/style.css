@@ -1,0 +1,19 @@
+/*************** 
+    COMMON UI ELEMENTS
+***************/
+
+* { font-family: 'Roboto', sans-serif; }
+
+body {
+    background-color: #222;
+    color: white;
+}
+
+.my-border-red { border: solid 2px red; }
+.my-border-green { border: solid 2px green; }
+
+/*************** 
+    MAIN ELEMENTS
+***************/
+
+#InputText { width: 30%; }
